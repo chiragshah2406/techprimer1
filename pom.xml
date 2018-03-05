@@ -58,6 +58,7 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
+            <password>dragon76</password>
             <url>https://mymavenrepo.com/repo/qljueJSXyRQkPONjdEKN/</url>
         </repository>
     </repositories>
@@ -65,6 +66,7 @@
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
+            <password>dragon76</password>     
             <url>https://mymavenrepo.com/repo/ME3HAwabUZDeFhVCXd8V/</url>
         </repository>
     </distributionManagement>
